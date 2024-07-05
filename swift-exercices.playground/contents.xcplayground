@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='0001_comments'/>
+        <page name='0002_printing'/>
+        <page name='0003_aritmethic_operations'/>
+        <page name='0004_math_functions'/>
+        <page name='0005_naming_data'/>
+        <page name='0006_type_conversion'/>
+        <page name='0007_type_inference'/>
+        <page name='0008_strings'/>
+        <page name='0009_tuples'/>
+        <page name='0010_booleans'/>
+        <page name='0011_if_statement'/>
+        <page name='0012_loops'/>
+        <page name='0013_switch_statement'/>
+        <page name='0014_functions'/>
+        <page name='0015_optionals'/>
+        <page name='0016_guard'/>
+        <page name='0017_collections'/>
+        <page name='0018_dictionaries'/>
+        <page name='0019_sets'/>
+        <page name='0020_closures'/>
+        <page name='0021_structures'/>
+        <page name='0022_properties'/>
+        <page name='0023_methods'/>
+        <page name='0024_classes'/>
+        <page name='0025_advanced_classes'/>
+        <page name='0026_polymorphism'/>
+        <page name='0027_enum'/>
+        <page name='0028_optionals'/>
+        <page name='0029_protocols'/>
+        <page name='0030_generics'/>
+        <page name='0031_arrays'/>
+        <page name='0032_dictionaries'/>
+        <page name='0033_protocols'/>
+        <page name='0034_extensions'/>
+        <page name='0035_tests'/>
+    </pages>
+</playground>
